@@ -20,8 +20,8 @@ Ex. -
 ## Code Example
 Look at Contents.swift. It is a Swift playgrounds file. Run the GET function by adding the following to line 67
 ```
-getRequest()
-postRequest()
+getRequest() // starts GET request on given URL
+postRequest() // starts POST request on given URL with payload that you supplied
 ```
 The example uses JSONPlaceholder to supply the example with fake json. The GET request function will return json from JSON Placeholder inside the console. The POST request will return a HTTP Status code of 201 "OK" inside the console.
 
