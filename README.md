@@ -10,10 +10,7 @@
     </a>
 
 ## Tech/framework used
-Ex. -
-
 <b>Built with</b>
-- [Electron](https://electron.atom.io)
 - Swift 4+ compatible
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) 
 
