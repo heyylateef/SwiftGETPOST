@@ -4,7 +4,6 @@
 
 
 ## Code style
-If you're using any code style like xo, standard etc. That will help others while contributing to your project. Ex. -
  
  </a>
         <img src="http://img.shields.io/badge/swift-5.1-brightgreen.svg" alt="Swift 5.1">
