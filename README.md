@@ -15,7 +15,7 @@
 - [JSON Placeholder](https://jsonplaceholder.typicode.com/) 
 
 ## Code Example
-Look at Contents.swift. It is a Swift playgrounds file. Run the GET function by adding the following to line 67
+Look at Contents.swift. It is a Swift playgrounds file. Run the GET/POST function by adding the following to line 67
 ```
 getRequest() // starts GET request on given URL
 postRequest() // starts POST request on given URL with payload that you supplied
